@@ -44,8 +44,8 @@
       <Item key="frmMain.mnuMainZoom" value="Gluais"/>
       <Item key="frmMain.mnuMainZoomIn" value="Gluais isteach"/>
       <Item key="frmMain.mnuMainZoomOut" value="Gluais amach"/>
-      <Item key="frmMain.mnuCustomZoom" value="Custom zoom…"/>
-      <Item key="frmMain.mnuCustomZoom._Text" value="Enter a new zoom value"/>
+      <Item key="frmMain.mnuCustomZoom" value="Gluais shaincheaptha…"/>
+      <Item key="frmMain.mnuCustomZoom._Text" value="Cuir isteach luach nua gluaise"/>
       <Item key="frmMain.mnuMainScaleToFit" value="Athraigh an scála chun é a chur in oiriúint don lch"/>
       <Item key="frmMain.mnuMainScaleToFill" value="Athraigh an scála chun an leathanach an líonadh"/>
       <Item key="frmMain.mnuMainActualSize" value="Méid iarbhír"/>
@@ -106,11 +106,11 @@
       <Item key="frmMain.mnuMainCheckForUpdate._NoUpdate" value="Lorg nuashonrú…"/>
       <Item key="frmMain.mnuMainCheckForUpdate._NewVersion" value="Tá leagan nua de ar fáil!"/>
       <Item key="frmMain.mnuMainReportIssue" value="Tuairiscigh fadhb…"/>
-      <Item key="frmMain.mnuMainExitApplication" value="Exit"/>
-      <Item key="frmMain.mnuTrayShowWindow" value="Show"/>
+      <Item key="frmMain.mnuMainExitApplication" value="Scoir"/>
+      <Item key="frmMain.mnuTrayShowWindow" value="Taispeáin"/>
       <Item key="frmMain.picMain._ErrorText" value="Ní féidir le ImageGlass an pictiúr sin a oscailt mar tá an dealramh ar an gcomhad go bhfuil dochar déanta don chomhad, go bhfuil sé truaillithe nó ní thugtar tacaíocht dó."/>
       <Item key="frmMain._ImageNotExist" value="Ní ann don íomhá sin."/>
-      <Item key="frmMain.btnMenu" value="Main menu"/>
+      <Item key="frmMain.btnMenu" value="An príomhroghchlár"/>
       <Item key="frmMain._OpenFileDialog" value="Gach comhad a dtugtar tacaíocht dóibh"/>
       <Item key="frmMain._Files" value="comha(i)d"/>
       <Item key="frmMain._Pages" value="leathanaigh"/>
@@ -129,9 +129,9 @@
       <Item key="frmMain._CutFileText" value="Gearradh {0} chomhad"/>
       <Item key="frmMain._CopyImageData" value="Cóipeáladh an íomhá chuig an ngearrthaisce"/>
       <Item key="frmMain._ClearClipboard" value="Glanadh an ghearrthaisce"/>
-      <Item key="frmMain._SaveConfirm" value="Do you want to save this image?&#13;&#10;{0}"/>
-      <Item key="frmMain._SaveOverrideConfirm" value="Are you sure you want to override this image?&#13;&#10;{0}"/>
-      <Item key="frmMain._SaveDescription" value="ImageGlass is not a professional photo editor, please be aware of losing the quality, metadata, layers,... when saving your image."/>
+      <Item key="frmMain._SaveConfirm" value="An mian leat an íomhá seo a chur i dtaisce i ríomhaire?&#13;&#10;{0}"/>
+      <Item key="frmMain._SaveOverrideConfirm" value="An bhfuil tú cinnte gur mian leat forscríobh a dhéanamh ar an íomhá seo?&#13;&#10;{0}"/>
+      <Item key="frmMain._SaveDescription" value="Ní eagarthóir gairmiúil grianghraif é ImageGlass. Tabhair faoi deara go bhféadfaí an cháilíocht, na meiteashonraí, na cisil a chailliúint... fad agus atá d'íomhá á cur i dtaisce."/>
       <Item key="frmMain._SaveImage" value="Cuireadh an íomhá i dtaisce in&#10;{0}"/>
       <Item key="frmMain._SavingImage" value="Tá an íomhá {0} á cur i dtaisce"/>
       <Item key="frmMain._SaveImageError" value="Ní féidir an íomhá {0} a chur i dtaisce."/>
@@ -143,7 +143,7 @@
       <Item key="frmMain._SetLockImage_Success" value="Socraíodh íomhá mar ghlas don scáileán"/>
       <Item key="frmMain._SetBackground_Error" value="Tharla botún fad agus a bhí íomhá á socrú mar chúlra don deasc"/>
       <Item key="frmMain._SetBackground_Success" value="Rinneadh cúlra an deasca a shocrú"/>
-      <Item key="frmMain._PageExtracting" value="Extracting image pages..."/>
+      <Item key="frmMain._PageExtracting" value="Tá na leathanaigh íomhá á mbaint amach..."/>
       <Item key="frmMain._PageExtractComplete" value="Críochnaíodh asbhaint an leathanaigh."/>
       <Item key="frmMain._Frameless" value="Coinnigh IOMLAOID síos chun an fhuinneog a bhogadh."/>
       <Item key="frmMain._InvalidImageClipboardData" value="Níl sonraí na híomhá sa ghearrthaisce."/>
@@ -156,7 +156,7 @@
       <Item key="frmAbout.lblSoftwareUpdate" value="Nuashonrú ar bhogearraí"/>
       <Item key="frmAbout.lnkCheckUpdate" value="» Lorg nuashonrú…"/>
       <Item key="frmAbout._Text" value="Maidir leis"/>
-      <Item key="frmAbout._PortableText" value="[Portable]"/>
+      <Item key="frmAbout._PortableText" value="[Soghluaiste]"/>
       <Item key="frmSetting._Text" value="Socruithe"/>
       <Item key="frmSetting.btnSave" value="Cuir i dtaisce é"/>
       <Item key="frmSetting.btnCancel" value="Cealaigh"/>
@@ -183,11 +183,11 @@
       <Item key="frmSetting.lblBackGroundColor" value="Dath an chúlra"/>
       <Item key="frmSetting.lnkResetBackgroundColor" value="Athshocraigh"/>
       <Item key="frmSetting.lblHeadPanning" value="Panning"/>
-      <Item key="frmSetting.lblVertPanningSpeed" value="Vertical panning speed"/>
-      <Item key="frmSetting.lblHorzPanningSpeed" value="Horizontal panning speed"/>
+      <Item key="frmSetting.lblVertPanningSpeed" value="Vertical panning luas"/>
+      <Item key="frmSetting.lblHorzPanningSpeed" value="Horizontal panning luas"/>
       <Item key="frmSetting.lblHeadOthers" value="Eile"/>
-      <Item key="frmSetting.chkStartWithOs" value="Start with OS to improve startup speed"/>
-      <Item key="frmSetting.chkContinueRunningBackground" value="Continue running in the background when the app is closed"/>
+      <Item key="frmSetting.chkStartWithOs" value="Tosaigh é an tráth a thosaítear an ríomhaire chun dlús a chur le luas tosaithe"/>
+      <Item key="frmSetting.chkContinueRunningBackground" value="Lean ar aghaidh ag rith sa chúlra fad agus atá an feidhmchlár dúnta"/>
       <Item key="frmSetting.chkAutoUpdate" value="Lorg nuashonruithe go huathoibríoch"/>
       <Item key="frmSetting.chkAllowMultiInstances" value="Ceadaigh iliomad áisc den ríomhchlár"/>
       <Item key="frmSetting.chkESCToQuit" value="Ceadaigh ESC a bhrúigh chun scoir ón ríomhchlár"/>
@@ -199,20 +199,20 @@
       <Item key="frmSetting.chkShowHiddenImages" value="Taispeáin íomhánna atá i bhfolach"/>
       <Item key="frmSetting.chkLoopViewer" value="Lúb an t-amharcóir ar ais chuig an gcéad íomhá nuair a shroichtear deireadh an liosta"/>
       <Item key="frmSetting.chkIsCenterImage" value="Cuir an íomhá i lár an amharcóra"/>
-      <Item key="frmSetting.chkIsUseRawThumbnail" value="Use embedded thumbnail for RAW formats"/>
-      <Item key="frmSetting.chkAutoDisplayNewImage" value="Display new image in folder automatically"/>
+      <Item key="frmSetting.chkIsUseRawThumbnail" value="Bain feidhm as mionsamhail leabaithe i gcomhair formáid RAW"/>
+      <Item key="frmSetting.chkAutoDisplayNewImage" value="Taispeáin an íomhá nua go huathoibríoch san fhillteán"/>
       <Item key="frmSetting.lblImageLoadingOrder" value="An t-ord ina dhéantar íomhánna a luchtú"/>
       <Item key="frmSetting.chkUseFileExplorerSortOrder" value="Bain feidhm as ord sórtála Thaiscéalaí Comhaid Windows más féidir"/>
       <Item key="frmSetting.chkGroupByDirectory" value="Cruinnigh íomhánna de réir comhadlainne"/>
       <Item key="frmSetting.lblImageBoosterCachedCount" value="Líon na n-íomhánna arna taiscthe ag ImageBooster (aon treo)"/>
-      <Item key="frmSetting.chkIsPlayImageChangeSound" value="Play sound when image changes"/>
-      <Item key="frmSetting.lblNumberImagesNotify" value="Number of images to notify"/>
+      <Item key="frmSetting.chkIsPlayImageChangeSound" value="Seinn fuaim nuair a athraíonn an íomhá"/>
+      <Item key="frmSetting.lblNumberImagesNotify" value="Líon na n-íomhánna le fógairt"/>
       <Item key="frmSetting.lblColorManagement" value="Bainistíocht na ndathanna"/>
       <Item key="frmSetting.chkApplyColorProfile" value="Cuir i bhfeidhm é i gcomhair íomhánna gan phróifíl leabaithe dhathanna"/>
       <Item key="frmSetting.lblColorProfile" value="Próifíl dhathanna:"/>
       <Item key="frmSetting.lnkColorProfileBrowse" value="Siortaigh…"/>
       <Item key="frmSetting.cmbColorProfile._None" value="Faic"/>
-      <Item key="frmSetting.cmbColorProfile._CurrentMonitorProfile" value="Use current monitor profile"/>
+      <Item key="frmSetting.cmbColorProfile._CurrentMonitorProfile" value="Bain feidhm as beathaisnéisín reatha an scáileáin"/>
       <Item key="frmSetting.cmbColorProfile._CustomProfileFile" value="Saincheaptha…"/>
       <Item key="frmSetting.lblHeadMouseWheelActions" value="Gníomhartha an rotha luchóige"/>
       <Item key="frmSetting.lblMouseWheel" value="Roth na luchóige"/>
@@ -247,8 +247,8 @@
       <Item key="frmSetting.lblSlideshowInterval" value="Eatramh an taispeántais sleamhnáin: {0}"/>
       <Item key="frmSetting.lblSlideshowIntervalTo" value="go"/>
       <Item key="frmSetting.lblHeadFullScreen" value="Lánscáileán"/>
-      <Item key="frmSetting.chkHideToolbarInFullScreen" value="Hide toolbar"/>
-      <Item key="frmSetting.chkHideThumbnailBarInFullScreen" value="Hide thumbnail bar"/>
+      <Item key="frmSetting.chkHideToolbarInFullScreen" value="Folaigh an barra uirlisí"/>
+      <Item key="frmSetting.chkHideThumbnailBarInFullScreen" value="Folaigh barra na mionsamhail"/>
       <Item key="frmSetting.chkSaveOnRotate" value="Cuir an íomhá i dtaisce tar éis í a rothlú"/>
       <Item key="frmSetting.lblSelectAppForEdit" value="Roghnaigh feidhmchlár chun eagarthóireacht a dhéanamh ar íomhánna"/>
       <Item key="frmSetting.lblAfterEditingApp" value="Tar éis an feidhmchlár eagarthóireachta a oscailt:"/>
@@ -375,3 +375,4 @@
     </Content>
   </Language>
 </ImageGlass>
+
